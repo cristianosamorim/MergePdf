@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
@@ -9,6 +10,7 @@ namespace MergePdf
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("começando um merge entre pdfs");
         }
 
         public static byte[] concatAndAddContent(List<byte[]> pdfByteContent)

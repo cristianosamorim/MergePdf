@@ -1,0 +1,8 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\bin\Debug\MergePdf.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\bin\Debug\MergePdf.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\bin\Debug\MergePdf.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\bin\Debug\itextsharp.dll
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\bin\Debug\itextsharp.xml
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\obj\Debug\MergePdf.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\obj\Debug\MergePdf.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\MergePdf\MergePdf\obj\Debug\MergePdf.pdb
